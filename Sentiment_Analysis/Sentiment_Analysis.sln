@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sentiment_Analysis", "Sentiment_Analysis\Sentiment_Analysis.csproj", "{CBA90891-9561-40F0-8789-E2DB8D3EA3B5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sentiment_AnalysisML.Model", "Sentiment_AnalysisML.Model\Sentiment_AnalysisML.Model.csproj", "{568721E5-9F27-4B71-A1F5-CDDB5C2DF9A2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sentiment_AnalysisML.ConsoleApp", "Sentiment_AnalysisML.ConsoleApp\Sentiment_AnalysisML.ConsoleApp.csproj", "{63C4B986-2B5C-4A14-BD94-33E1713DB955}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBA90891-9561-40F0-8789-E2DB8D3EA3B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBA90891-9561-40F0-8789-E2DB8D3EA3B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBA90891-9561-40F0-8789-E2DB8D3EA3B5}.Debug|x64.ActiveCfg = Debug|x64
+		{CBA90891-9561-40F0-8789-E2DB8D3EA3B5}.Debug|x64.Build.0 = Debug|x64
+		{CBA90891-9561-40F0-8789-E2DB8D3EA3B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBA90891-9561-40F0-8789-E2DB8D3EA3B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBA90891-9561-40F0-8789-E2DB8D3EA3B5}.Release|x64.ActiveCfg = Release|x64
+		{CBA90891-9561-40F0-8789-E2DB8D3EA3B5}.Release|x64.Build.0 = Release|x64
+		{568721E5-9F27-4B71-A1F5-CDDB5C2DF9A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{568721E5-9F27-4B71-A1F5-CDDB5C2DF9A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{568721E5-9F27-4B71-A1F5-CDDB5C2DF9A2}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{568721E5-9F27-4B71-A1F5-CDDB5C2DF9A2}.Debug|x64.Build.0 = Debug|Any CPU
+		{568721E5-9F27-4B71-A1F5-CDDB5C2DF9A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{568721E5-9F27-4B71-A1F5-CDDB5C2DF9A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{568721E5-9F27-4B71-A1F5-CDDB5C2DF9A2}.Release|x64.ActiveCfg = Release|Any CPU
+		{568721E5-9F27-4B71-A1F5-CDDB5C2DF9A2}.Release|x64.Build.0 = Release|Any CPU
+		{63C4B986-2B5C-4A14-BD94-33E1713DB955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63C4B986-2B5C-4A14-BD94-33E1713DB955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63C4B986-2B5C-4A14-BD94-33E1713DB955}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{63C4B986-2B5C-4A14-BD94-33E1713DB955}.Debug|x64.Build.0 = Debug|Any CPU
+		{63C4B986-2B5C-4A14-BD94-33E1713DB955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63C4B986-2B5C-4A14-BD94-33E1713DB955}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63C4B986-2B5C-4A14-BD94-33E1713DB955}.Release|x64.ActiveCfg = Release|Any CPU
+		{63C4B986-2B5C-4A14-BD94-33E1713DB955}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25E7AA5B-3104-4CDF-9A30-71B201783527}
+	EndGlobalSection
+EndGlobal

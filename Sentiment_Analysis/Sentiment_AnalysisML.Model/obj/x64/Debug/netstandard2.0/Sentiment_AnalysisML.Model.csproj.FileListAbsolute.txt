@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_AnalysisML.Model\bin\x64\Debug\netstandard2.0\MLModel.zip
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_AnalysisML.Model\bin\x64\Debug\netstandard2.0\Sentiment_AnalysisML.Model.deps.json
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_AnalysisML.Model\bin\x64\Debug\netstandard2.0\Sentiment_AnalysisML.Model.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_AnalysisML.Model\bin\x64\Debug\netstandard2.0\Sentiment_AnalysisML.Model.pdb
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_AnalysisML.Model\obj\x64\Debug\netstandard2.0\Sentiment_AnalysisML.Model.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_AnalysisML.Model\obj\x64\Debug\netstandard2.0\Sentiment_AnalysisML.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_AnalysisML.Model\obj\x64\Debug\netstandard2.0\Sentiment_AnalysisML.Model.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_AnalysisML.Model\obj\x64\Debug\netstandard2.0\Sentiment_AnalysisML.Model.AssemblyInfo.cs
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_AnalysisML.Model\obj\x64\Debug\netstandard2.0\Sentiment_AnalysisML.Model.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_AnalysisML.Model\obj\x64\Debug\netstandard2.0\Sentiment_AnalysisML.Model.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_AnalysisML.Model\obj\x64\Debug\netstandard2.0\Sentiment_AnalysisML.Model.pdb

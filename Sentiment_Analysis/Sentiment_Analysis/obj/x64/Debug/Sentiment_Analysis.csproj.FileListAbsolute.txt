@@ -1,0 +1,295 @@
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\obj\x64\Debug\Sentiment_Analysis.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\obj\x64\Debug\Sentiment_Analysis.exe.config
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\obj\x64\Debug\Sentiment_Analysis.Form1.resources
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\obj\x64\Debug\Sentiment_Analysis.Properties.Resources.resources
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\obj\x64\Debug\Sentiment_Analysis.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\obj\x64\Debug\Sentiment_Analysis.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\MLModel.zip
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\LdaNative.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\CpuMathNative.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\Sentiment_Analysis.exe.config
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\Sentiment_Analysis.exe
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\Sentiment_Analysis.pdb
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\netstandard.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.AppContext.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Collections.Concurrent.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Collections.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Collections.NonGeneric.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Collections.Specialized.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.ComponentModel.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.ComponentModel.Primitives.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Console.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Data.Common.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Diagnostics.Contracts.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Diagnostics.Debug.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Diagnostics.Process.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Diagnostics.Tools.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Diagnostics.Tracing.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Drawing.Primitives.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Dynamic.Runtime.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Globalization.Calendars.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Globalization.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Globalization.Extensions.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.IO.Compression.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.IO.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.IO.FileSystem.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.IO.IsolatedStorage.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.IO.Pipes.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Linq.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Linq.Expressions.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Linq.Parallel.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Linq.Queryable.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Net.Http.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Net.NameResolution.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Net.NetworkInformation.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Net.Ping.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Net.Primitives.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Net.Requests.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Net.Security.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Net.Sockets.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Net.WebSockets.Client.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Net.WebSockets.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.ObjectModel.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Reflection.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Reflection.Extensions.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Reflection.Primitives.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Resources.Reader.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Resources.ResourceManager.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Resources.Writer.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Runtime.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Runtime.Extensions.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Runtime.Handles.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Runtime.InteropServices.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Runtime.Numerics.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Security.Claims.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Security.Principal.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Security.SecureString.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Text.Encoding.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Text.RegularExpressions.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Threading.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Threading.Overlapped.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Threading.Tasks.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Threading.Thread.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Threading.ThreadPool.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Threading.Timer.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.ValueTuple.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Xml.ReaderWriter.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Xml.XDocument.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Xml.XmlDocument.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Xml.XmlSerializer.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Xml.XPath.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\Microsoft.ML.Core.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\Microsoft.ML.CpuMath.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\Microsoft.ML.Data.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\Microsoft.ML.DataView.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\Microsoft.ML.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\Microsoft.ML.KMeansClustering.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\Microsoft.ML.PCA.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\Microsoft.ML.StandardTrainers.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\Microsoft.ML.Transforms.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\Sentiment_AnalysisML.Model.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Buffers.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.CodeDom.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Memory.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Threading.Channels.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\Sentiment_AnalysisML.Model.pdb
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\Microsoft.ML.xml
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\Microsoft.ML.Core.xml
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\Microsoft.ML.CpuMath.xml
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\Microsoft.ML.Data.xml
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\Microsoft.ML.DataView.xml
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\Microsoft.ML.KMeansClustering.xml
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\Microsoft.ML.PCA.xml
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\Microsoft.ML.StandardTrainers.xml
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\Microsoft.ML.Transforms.xml
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Buffers.xml
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Collections.Immutable.xml
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Memory.xml
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Threading.Channels.xml
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\obj\x64\Debug\Sentiment_Analysis.exe
+C:\Users\HP\Desktop\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\obj\x64\Debug\Sentiment_Analysis.pdb
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\MLModel.zip
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\LdaNative.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\CpuMathNative.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\Sentiment_Analysis.exe.config
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\Sentiment_Analysis.exe
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\Sentiment_Analysis.pdb
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\Microsoft.Win32.Primitives.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\netstandard.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.AppContext.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Collections.Concurrent.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Collections.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Collections.NonGeneric.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Collections.Specialized.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.ComponentModel.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.ComponentModel.Primitives.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.ComponentModel.TypeConverter.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Console.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Data.Common.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Diagnostics.Contracts.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Diagnostics.Debug.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Diagnostics.Process.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Diagnostics.StackTrace.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Diagnostics.Tools.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Diagnostics.TraceSource.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Diagnostics.Tracing.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Drawing.Primitives.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Dynamic.Runtime.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Globalization.Calendars.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Globalization.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Globalization.Extensions.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.IO.Compression.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.IO.Compression.ZipFile.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.IO.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.IO.FileSystem.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.IO.FileSystem.Primitives.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.IO.FileSystem.Watcher.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.IO.IsolatedStorage.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.IO.MemoryMappedFiles.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.IO.Pipes.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Linq.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Linq.Expressions.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Linq.Parallel.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Linq.Queryable.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Net.Http.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Net.NameResolution.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Net.NetworkInformation.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Net.Ping.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Net.Primitives.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Net.Requests.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Net.Security.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Net.Sockets.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Net.WebHeaderCollection.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Net.WebSockets.Client.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Net.WebSockets.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.ObjectModel.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Reflection.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Reflection.Extensions.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Reflection.Primitives.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Resources.Reader.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Resources.ResourceManager.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Resources.Writer.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Runtime.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Runtime.Extensions.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Runtime.Handles.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Runtime.InteropServices.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Runtime.Numerics.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Runtime.Serialization.Formatters.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Runtime.Serialization.Json.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Runtime.Serialization.Primitives.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Runtime.Serialization.Xml.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Security.Claims.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Security.Cryptography.Algorithms.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Security.Cryptography.Csp.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Security.Cryptography.Encoding.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Security.Cryptography.Primitives.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Security.Principal.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Security.SecureString.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Text.Encoding.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Text.Encoding.Extensions.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Text.RegularExpressions.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Threading.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Threading.Overlapped.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Threading.Tasks.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Threading.Tasks.Parallel.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Threading.Thread.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Threading.ThreadPool.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Threading.Timer.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.ValueTuple.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Xml.ReaderWriter.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Xml.XDocument.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Xml.XmlDocument.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Xml.XmlSerializer.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Xml.XPath.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Xml.XPath.XDocument.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\Microsoft.ML.Core.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\Microsoft.ML.CpuMath.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\Microsoft.ML.Data.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\Microsoft.ML.DataView.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\Microsoft.ML.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\Microsoft.ML.KMeansClustering.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\Microsoft.ML.PCA.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\Microsoft.ML.StandardTrainers.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\Microsoft.ML.Transforms.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\Newtonsoft.Json.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\Sentiment_AnalysisML.Model.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Buffers.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.CodeDom.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Collections.Immutable.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Memory.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Numerics.Vectors.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Threading.Channels.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\Sentiment_AnalysisML.Model.pdb
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\Microsoft.ML.xml
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\Microsoft.ML.Core.xml
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\Microsoft.ML.CpuMath.xml
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\Microsoft.ML.Data.xml
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\Microsoft.ML.DataView.xml
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\Microsoft.ML.KMeansClustering.xml
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\Microsoft.ML.PCA.xml
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\Microsoft.ML.StandardTrainers.xml
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\Microsoft.ML.Transforms.xml
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\Newtonsoft.Json.xml
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Buffers.xml
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Collections.Immutable.xml
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Memory.xml
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Numerics.Vectors.xml
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Threading.Channels.xml
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\obj\x64\Debug\Sentiment_Analysis.csproj.AssemblyReference.cache
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\obj\x64\Debug\Sentiment_Analysis.exe.config
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\obj\x64\Debug\Sentiment_Analysis.Form1.resources
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\obj\x64\Debug\Sentiment_Analysis.Properties.Resources.resources
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\obj\x64\Debug\Sentiment_Analysis.csproj.GenerateResource.cache
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\obj\x64\Debug\Sentiment_Analysis.csproj.CoreCompileInputs.cache
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\obj\x64\Debug\Sentiment_Analysis.csproj.CopyComplete
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\obj\x64\Debug\Sentiment_Analysis.exe
+D:\University Work\7th-Sms\Natural Lnaguage Processing\Project\Sentiment_Analysis_NLP\Sentiment_Analysis\Sentiment_Analysis\obj\x64\Debug\Sentiment_Analysis.pdb
